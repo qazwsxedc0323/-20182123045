@@ -1,5 +1,7 @@
-李凤琼20182123045
-用例名称	Security System
+##李凤琼20182123045
+
+##用例名称	Security System
+
 用例说明	管理者在完成登录操作后，可以进行总览，设置安全政策，发布安全公告，查看dependabot警报，代码扫描警报等一系列操作
 参与者	管理员
 元素	Overview，Security policy，Security advisories，Dependabot alerts，Code scanning alterts，Set up a security policy，View security advisories，Configuration，Set up code scanning，Draft，Published，Closed，Automatically detect，Security analysis from the marlcetplace
